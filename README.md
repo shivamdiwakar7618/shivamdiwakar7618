@@ -29,18 +29,35 @@
 
 ## 📜 Certifications
 
-<p align="left">
+<table>
+<tr>
 
-<img src="https://img.shields.io/badge/IBM-Data_Analysis_with_Python-052FAD?style=for-the-badge&logo=IBM&logoColor=white"/>
+<td align="center" width="25%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="80"><br><br>
+<b>IBM</b><br>
+<sub>Data Analysis with Python</sub>
+</td>
 
-<img src="https://img.shields.io/badge/Deloitte-Data_Analytics_Job_Simulation-0A66C2?style=for-the-badge&logo=deloitte&logoColor=white"/>
+<td align="center" width="25%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Deloitte.svg" width="80"><br><br>
+<b>Deloitte</b><br>
+<sub>Data Analytics Job Simulation</sub>
+</td>
 
-<img src="https://img.shields.io/badge/TATA-GenAI_Data_Analytics-005BAC?style=for-the-badge&logo=tata&logoColor=white"/>
+<td align="center" width="25%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Tata_logo.svg" width="80"><br><br>
+<b>TATA</b><br>
+<sub>GenAI Data Analytics</sub>
+</td>
 
-<img src="https://img.shields.io/badge/Quantium-Data_Analytics_Job_Simulation-7B3FE4?style=for-the-badge"/>
+<td align="center" width="25%">
+<img src="https://images.seeklogo.com/logo-png/61/2/quantium-logo-png_seeklogo-613004.png" width="80"><br><br>
+<b>Quantium</b><br>
+<sub>Data Analytics Job Simulation</sub>
+</td>
 
-</p>
-
+</tr>
+</table>
 ---
 
 ## 📬 Connect with Me
