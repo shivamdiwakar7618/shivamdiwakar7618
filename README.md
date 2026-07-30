@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shivam Diwakar</h1>
 <h3 align="center">📊 Data Analyst | Power BI | SQL | Python | Excel</h3>
 
-
-Passionate about transforming raw data into meaningful insights using **Power BI, SQL, Python, and Excel**. I enjoy building interactive dashboards, performing data analysis, and solving real-world business problems.
-
 ---
 
 ## 🙋 About Me
 
-- 🎓 BCA Student at Invertis University
+- 🎓 BCA Graduate from Invertis University
 - 📊 Aspiring Data Analyst
 - 💻 Skilled in Power BI, SQL, Python & Excel
 - 📈 Interested in Business Intelligence & Data Visualization
@@ -22,28 +19,40 @@ Passionate about transforming raw data into meaningful insights using **Power BI
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<p align="left">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
 
 ## 📜 Certifications
 
-- ✅ IBM – Data Analysis with Python
-- ✅ Deloitte – Data Analytics Job Simulation
-- ✅ TATA – GenAI Powered Data Analytics Job Simulation
-- ✅ Quantium – Data Analytics Job Simulation
+<p align="left">
+
+<img src="https://img.shields.io/badge/IBM-Data_Analysis_with_Python-052FAD?style=for-the-badge&logo=IBM&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Deloitte-Data_Analytics_Job_Simulation-0A66C2?style=for-the-badge&logo=deloitte&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TATA-GenAI_Data_Analytics-005BAC?style=for-the-badge&logo=tata&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Quantium-Data_Analytics_Job_Simulation-7B3FE4?style=for-the-badge"/>
+
+</p>
 
 ---
 
 ## 📬 Connect with Me
 
-📧 **Email:** shivamdiwakarahroli@gmail.com
+<p align="left">
 
-💼 **LinkedIn:** https://linkedin.com/in/YOUR-LINKEDIN
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-📱 **Phone:** +91 7618567369
+<a href="mailto:shivamdiwakarahroli@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
